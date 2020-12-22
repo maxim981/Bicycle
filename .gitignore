@@ -1,0 +1,4 @@
+$ cat.gitignore
+*node_modules
+*testgitignore.txt
+*package-lock.json
